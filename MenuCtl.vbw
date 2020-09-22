@@ -1,0 +1,7 @@
+MenuFrm = 129, 113, 665, 561, C, 44, 44, 581, 492, C
+Common = 0, 0, 0, 0, C
+EtchModule = 0, 0, 0, 0, C
+OutModule = 0, 0, 0, 0, C
+MenuCtl = 22, 22, 558, 470, , 66, 66, 602, 514, C
+Module1 = 88, 88, 624, 536, C
+PlainLineModule = 0, 0, 0, 0, C
